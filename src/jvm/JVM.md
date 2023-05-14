@@ -857,7 +857,8 @@ Class文件是一组以8个字节为基础单位的二进制流，各个数据�
 
 [Java字节码的详细讲解-刘宇_Brycen Liu的博客-CSDN博客_java字节码详解](https://blog.csdn.net/liuyu973971883/article/details/120168986)
 
-<img src="file:///C:/Users/baixy/AppData/Roaming/marktext/images/2022-06-30-10-19-22-image.png" title="" alt="" width="560">
+
+![](./assets/2022-06-30-10-19-22-image.png)
 
 ### 魔数（magic）
 
