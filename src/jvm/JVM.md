@@ -214,7 +214,7 @@ OracleJDK的方法区实现，1.8以前是永久代PermGen，1.8之后是元空�
 
 Java文件被编译成 class文件，class文件中除了包含类的版本、字段、方法、接口等描述信息外，还有一项就是常量池（Constant Pool），用于存放编译器生成的各种字面量（ Literal ）和 符号引用（Symbolic References）。
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200403205053271.png)
+![](./assets/20200403205053271.png)
 
 ### 运行时常量池
 
